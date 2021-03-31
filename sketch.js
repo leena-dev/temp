@@ -50,78 +50,78 @@ function setup() {
   console.log(openedSuitcases);
   b1 = createSprite(400,100,10,10)
   b1.addImage(unOpenedSuitcase);
-  b1.scale=0.2;
+  b1.scale=0.15;
   b2 = createSprite(600,100,10,10)
   b2.addImage(unOpenedSuitcase);
-  b2.scale=0.2;
+  b2.scale=0.15;
   b3 = createSprite(800,100,10,10)
   b3.addImage(unOpenedSuitcase);
-  b3.scale=0.2;
+  b3.scale=0.15;
   b4 = createSprite(1000,100,10,10)
   b4.addImage(unOpenedSuitcase);
-  b4.scale=0.2;
+  b4.scale=0.15;
   b5 = createSprite(400,300,10,10)
   b5.addImage(unOpenedSuitcase);
-  b5.scale=0.2;
+  b5.scale=0.15;
   b6 = createSprite(600,300,10,10)
   b6.addImage(unOpenedSuitcase);
-  b6.scale=0.2;
+  b6.scale=0.15;
   b7 = createSprite(800,300,10,10)
   b7.addImage(unOpenedSuitcase);
-  b7.scale=0.2;
+  b7.scale=0.15;
   b8 = createSprite(1000,300,10,10)
   b8.addImage(unOpenedSuitcase);
-  b8.scale=0.2;
+  b8.scale=0.15;
   b9 = createSprite(400,500,10,10)
   b9.addImage(unOpenedSuitcase);
-  b9.scale=0.2;
+  b9.scale=0.15;
   b10 = createSprite(600,500,10,10)
   b10.addImage(unOpenedSuitcase);
-  b10.scale=0.2;
+  b10.scale=0.15;
   b11 = createSprite(800,500,10,10)
   b11.addImage(unOpenedSuitcase);
-  b11.scale=0.2;
+  b11.scale=0.15;
   b12 = createSprite(1000,500,10,10)
   b12.addImage(unOpenedSuitcase);
-  b12.scale=0.2;
+  b12.scale=0.15;
 
   col1 = createSprite(1300,100,10,10,0)
   col1.addImage(amtBox);
-  col1.scale=0.5;
+  col1.scale=0.4;
 
   col2 = createSprite(1300,200,10,10,1)
   col2.addImage(amtBox);
-  col2.scale=0.5;
+  col2.scale=0.4;
   col3 = createSprite(1300,300,10,10,2)
   col3.addImage(amtBox);
-  col3.scale=0.5;
+  col3.scale=0.4;
   col4 = createSprite(1300,400,10,10,3)
   col4.addImage(amtBox);
-  col4.scale=0.5;
+  col4.scale=0.4;
   col5 = createSprite(1300,500,10,10,4)
   col5.addImage(amtBox);
-  col5.scale=0.5;
+  col5.scale=0.4;
   col6 = createSprite(1300,600,10,10,5)
   col6.addImage(amtBox);
-  col6.scale=0.5;
+  col6.scale=0.4;
   col7 = createSprite(150,100,10,10,6)
   col7.addImage(amtBox);
-  col7.scale=0.5;
+  col7.scale=0.4;
   col8 = createSprite(150,200,10,10,7)
   col8.addImage(amtBox);
-  col8.scale=0.5;
+  col8.scale=0.4;
   col9 = createSprite(150,300,10,10,8)
   col9.addImage(amtBox);
-  col9.scale=0.5;
+  col9.scale=0.4;
   col10 = createSprite(150,400,10,10,9)
   col10.addImage(amtBox);
-  col10.scale=0.5;
+  col10.scale=0.4;
   col11 = createSprite(150,500,10,10,10)
   col11.addImage(amtBox);
-  col11.scale=0.5;
+  col11.scale=0.4;
   col12 = createSprite(150,600,10,10,11)
   col12.addImage(amtBox);
-  col12.scale=0.5; 
+  col12.scale=0.4; 
   
   deal = createSprite(600,height-40)
   deal.addImage(dealImg);
